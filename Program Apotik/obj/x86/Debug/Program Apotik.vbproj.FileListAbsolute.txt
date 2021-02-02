@@ -1,0 +1,13 @@
+D:\PROJECT MI\Program Apotik\Program Apotik\bin\Debug\Program Apotik.exe
+D:\PROJECT MI\Program Apotik\Program Apotik\bin\Debug\Program Apotik.pdb
+D:\PROJECT MI\Program Apotik\Program Apotik\bin\Debug\Program Apotik.xml
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.Resources.resources
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.vbproj.GenerateResource.Cache
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.exe
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.xml
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.pdb
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.frmobat.resources
+D:\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.Halaman_Utama.resources
+D:\MASTER PROJECT VB\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.exe
+D:\MASTER PROJECT VB\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.xml
+D:\MASTER PROJECT VB\PROJECT MI\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.pdb
